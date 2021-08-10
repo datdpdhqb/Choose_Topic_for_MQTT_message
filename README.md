@@ -1,2 +1,2 @@
 # Code-for-Electronic
-Just another repository
+This is project for MQTT messages
